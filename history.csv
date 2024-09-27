@@ -1,0 +1,23 @@
+description,nb_best_alpha,lr_best_C,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy,
+"Lowercasing, Punctuation Removal, Stop Word Removal, and Lemmatization",0.5,10,1,sigmoid,0.9090909090909091,0.8484848484848485,0.8181818181818182,
+description,nb_best_alpha,lr_best_C,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy,
+"Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,1,1,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485,
+description,nb_best_alpha,lr_best_C,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy,
+"changed max iteration to 10000 for lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,1,1,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485,
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"add 2 more hyperparamter for lr; change back to  1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,0.9,l2,1,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"choose saga for solver; add 2 more hyperparamter for lr; change back to  1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,0.75,l2,1,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"choose saga for solver; add 2 more hyperparamter for lr; change back to  1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,0.9,l2,0.5,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to  1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,0.75,l2,0.5,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"train 70%, test 15%, val 15%;more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to 1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.1,0.75,l2,0.5,linear,0.9090909090909091,0.8787878787878788,0.8484848484848485
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"train 70%, test 15%, val 15%; more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to 1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.001,0.1,l2,10.0,sigmoid,0.9183673469387755,0.7755102040816326,0.8979591836734694
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"train 60%, test 20%, val 20%; more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to 1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.001,0.75,l2,0.5,linear,0.8923076923076924,0.9076923076923077,0.9076923076923077
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"train 80%, test 10%, val 10%; more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to 1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.001,0.75,l2,0.5,sigmoid,0.9393939393939394,0.8484848484848485,0.8484848484848485
+description,nb_best_alpha,lr_best_C,lr_best_penalty,svm_best_C,svm_best_kernel,naive bayes accuracy,logistic regresion accuracy,svm accuracy
+"train 70%, test 15%, val 15%; more alphas for nb ;choose saga for solver; add 2 more hyperparamter for lr; change back to 1000 max iteration lr; Lowercasing, Punctuation Removal, Stop Word Removal, Lemmatization, and Stemming",0.001,0.5,l2,10.0,sigmoid,0.9183673469387755,0.8979591836734694,0.8979591836734694
